@@ -10,20 +10,20 @@ actual code logic.
 1. Go to the main repository page (in this case https://github.com/horusrogue/Roughcut-Picatinny) and click `[Add file]` > `[Upload files]`
 2. Select the file you are working on locally using drag and drop and/or click `[Choose your files]`. Ensure that it has the same name as the file
 you see in the current project repository
-3. Under "Commit changes" click the checkbox beside `[Create a new branch for this commit and start a pull request]`, and give your branch a name
+3. Under **"Commit changes"** click the checkbox beside `[Create a new branch for this commit and start a pull request]`, and give your branch a name
 that explains the high level changes you are going to be making by replacing the CURRENT FILE with yours, then hit `[Propose Changes]`
-4. On the "Open a pull request" screen, fill out the following fields:
+4. On the **"Open a pull request"** screen, fill out the following fields:
 
-- In the field text area under "Write" tab, paste the URL of the issues your changes are addressing (each issue should be on a new line). This is
+- In the field text area under **"Write"** tab, paste the URL of the issues your changes are addressing (each issue should be on a new line). This is
 also where you detail how you solved the problems in the linked issues. 
 - If this is a simple open shut change to the CAD file, no further information is required. 
   - If this is a moderate design change, please do a test print and provide a video/photo of the resulting file (and it fitting into another part if
 required). 
   - Note: If you printed the files using specific settings, provide any settings which affect dimensional/structural attributes of the model. 
-- Under "Reviewers" on the right, click the gear icon and select two or more members of the project
-- Under "Assignees", select yourself
-- Under "Projects" select the appropriate one if it exists
-- Under "Milestone" select the appropriate one if it exists
+- Under **"Reviewers"** on the right, click the gear icon and select two or more members of the project
+- Under **"Assignees"**, select yourself
+- Under **"Projects"** select the appropriate one if it exists
+- Under **"Milestone"** select the appropriate one if it exists
 
 5. Hit `[Create pull request]` and wait for someone to confirm the changes.
 6. Take the URL of the Pull Request and post it in Discord with an at here if you want attention on it!
