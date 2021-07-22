@@ -5,7 +5,7 @@ and test them for themselves/review them for any issues before incremmenting `bu
 To do this, I've adapted some elements that would be used in a software development environment with obvious changes to account for the lack of
 actual code logic.
 
-# How to submit a change request proposal?
+# How do you submit a change request proposal?
 
 1. Go to the main repository page (in this case https://github.com/horusrogue/Roughcut-Picatinny) and click [Add file] > [Upload files]
 2. Select the file you are working on locally using drag and drop and/or click [Choose your files]. Ensure that it has the same name as the file
