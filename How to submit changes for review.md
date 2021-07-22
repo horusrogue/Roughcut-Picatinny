@@ -1,6 +1,6 @@
 If you are working on a specific component of the larger project, or you're working on the primary file itself you want to ensure that your changes
-are not uploaded and replace the current latest file revision without your fellow project members being able to download "pull down" the new changes
-and test them for themselves/review them for any issues before incremmenting "bumping" the version of the fileset/project. 
+are not uploaded and replace the current latest file revision without your fellow project members being able to download `pull down` the new changes
+and test them for themselves/review them for any issues before incremmenting `bumping` the version of the fileset/project. 
 
 To do this, I've adapted some elements that would be used in a software development environment with obvious changes to account for the lack of
 actual code logic.
